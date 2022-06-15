@@ -5,3 +5,4 @@ git add .
 git commit -m "first push" 
 git push origin
 git remote -v 
+git pull origin master
