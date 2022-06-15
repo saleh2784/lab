@@ -8,3 +8,7 @@ git remote -v
 git pull origin master
 git push origin master 
 git fetch origion master
+git config --global alias.st status
+git config --global alias.co commit
+git remote add saleh https://github.com/saleh2784/lab.git
+
