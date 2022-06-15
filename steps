@@ -1,0 +1,6 @@
+cd / folder-location
+gi clone https://xxxxxxx
+vi test.rxr
+git add .
+git commit -m "first push" 
+git push origin
