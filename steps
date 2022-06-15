@@ -4,3 +4,4 @@ vi test.rxr
 git add .
 git commit -m "first push" 
 git push origin
+git remote -v 
